@@ -16,7 +16,9 @@
 
 ## 📈 GitHub Stats
 
+<p align="center">
 ![SebasQvdo's GitHub stats](https://github-readme-stats.vercel.app/api?username=SebasQvdo&show_icons=true&theme=radical)
+</p>
 
 ## 📊 Top Languages
 
