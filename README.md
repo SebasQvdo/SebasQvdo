@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, HTML5, Minitab, and ProjectLibre**
 
-- 👨‍💻 All of my projects are available in [Github](https://github.com/SebasQvdo/Portfolio)!
+- 👨‍💻 All of my projects are available in [My Portfolio](https://github.com/SebasQvdo/Portfolio)!
 
 - 💬 Ask me about **my past experiences and studies!**
 
