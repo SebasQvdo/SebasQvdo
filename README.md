@@ -1,21 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sebastián</h1>
 <h3 align="center">I’m interested in programming and the modeling of various things</h3>
 
-- 🔭 I’m currently working on [(nothing yet)](n/a)
-
 - 🌱 I’m currently learning **Javascript, HTML5, Minitab, and ProjectLibre**
 
-- 👯 I’m looking to collaborate on [(nothing yet)](n/a)
-
-- 🤝 I’m looking for help with [(nothing yet)](n/a)
-
-- 👨‍💻 All of my projects are available in [(Github!)[https://github.com/SebasQvdo/Portfolio]]((Github!)[https://github.com/SebasQvdo/Portfolio])
-
-- 📝 I regularly write articles on [(nothing yet)]((nothing yet))
+- 👨‍💻 All of my projects are available in [Github!](https://github.com/SebasQvdo/Portfolio]]((Github!)[https://github.com/SebasQvdo/Portfolio)
 
 - 💬 Ask me about **my past experiences and studies!**
 
-- 📄 Know about my experiences [https://www.overleaf.com/read/przwyydqmbmg#e6eac2](https://www.overleaf.com/read/przwyydqmbmg#e6eac2)
+- 📄 Know about my experiences [in overleaf (my CV)!](https://www.overleaf.com/read/przwyydqmbmg#e6eac2)
 
 - ⚡ Fun fact **I love to eat arab food, like the kibbehs from Yamal (Uff!)**
 
