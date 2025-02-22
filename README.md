@@ -32,7 +32,7 @@ Here are a few projects I've worked on:
 ## 💬 Let's Connect!
 
 I'm always excited to connect with fellow developers and tech enthusiasts. Feel free to reach out to me on [Instagram](https://twitter.com/sebas_quevedo_) or [LinkedIn](https://www.linkedin.com/in/ceviche/).
-<p align="left">
+<p align="center">
 <a href="https://linkedin.com/in/ceviche" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ceviche" height="30" width="40" /></a>
 <a href="https://instagram.com/sebas_quevedo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sebas_quevedo_" height="30" width="40" /></a>
 </p>
