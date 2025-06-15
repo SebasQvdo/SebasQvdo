@@ -9,8 +9,6 @@
 
 - 💬 Ask me about **my past experiences and studies!**
 
-- 📄 Know about my experiences [in overleaf](https://www.overleaf.com/read/przwyydqmbmg#e6eac2) (my CV)!
-
 - ⚡ Fun fact **I love to eat arab food, like the kibbehs from Yamal (Uff!)**
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,7 +27,7 @@
 Here are a few projects I've worked on:
 
 - [**Trip Budget Planner**](https://trip-budget-planner.vercel.app): A web app where you can manage your day-to-day budget, for this I had the help of Gemini AI to evaluate its effectiveness, and after a **lot** of trials and errors, I made it work; check it out on its [Github repository](https://github.com/sebast187/Trip-Budget-Planner)!
-- [**...**](): Next project....
+- [**LaTeX CV**](https://www.overleaf.com/read/przwyydqmbmg#e6eac2): I created my whole curriculum using an online LaTeX editor called Overleaf, I have since upgraded it by using regular .docx editors because of its inefficiencies and very small misallignments across the whole CV; however, it was a fun after-hours project to tackle.
 
 ## 💬 Let's Connect!
 
