@@ -3,7 +3,9 @@
 
 - 🌱 I’m currently learning **Javascript, HTML5, Minitab, and ProjectLibre**
 
-- 👨‍💻 All of my projects are available in [My Portfolio](https://github.com/SebasQvdo/Portfolio)!
+- 💼 My projects are available in [My Portfolio](https://github.com/SebasQvdo/Portfolio)!
+
+- 👨‍💻 Several of my hobby-related ventures exist in my other profile [sebast187](https://github.com/sebast187)
 
 - 💬 Ask me about **my past experiences and studies!**
 
@@ -26,8 +28,8 @@
 
 Here are a few projects I've worked on:
 
-- [**Project Name**](https://github.com/SebasQvdo/project-name): Brief description of the project.
-- [**Another Project**](https://github.com/SebasQvdo/another-project): Brief description of the project.
+- [**Trip Budget Planner**](https://trip-budget-planner.vercel.app): A web app where you can manage your day-to-day budget, for this I had the help of Gemini AI to evaluate its effectiveness, and after a **lot** of trials and errors, I made it work; check it out on its [Github repository](https://github.com/sebast187/Trip-Budget-Planner)!
+- [**...**](): Next project....
 
 ## 💬 Let's Connect!
 
@@ -42,6 +44,6 @@ Thank you for visiting my profile! 😊
 
 
 <!--
-To update my README.md file, use this webpage to add more interesting information!
+This readme.md file was aided by this webpage:
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 -->
