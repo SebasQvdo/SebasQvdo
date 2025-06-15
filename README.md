@@ -1,5 +1,5 @@
 <h1 align="center">Hey, welcome to my page,<br>I'm Sebastián</h1>
-<h3 align="center">I’m interested in all aspects of technology, from programming to software and hardware engineering</h3>
+<h3 align="center">I’m interested in every aspect of technology, from programming to software and hardware engineering</h3>
 
 - 🌱 I’m currently learning **Javascript, HTML5, CSS, SQL, and Cyber-Security basics**
 
