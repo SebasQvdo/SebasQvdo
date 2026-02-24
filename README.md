@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, HTML5, CSS, SQL, and Cyber-Security basics**
 
-- 💼 My projects are available in [My Portfolio](https://github.com/SebasQvdo/Portfolio)!
+- 💼 My biggest projects are available in [My Portfolio](https://github.com/SebasQvdo/Portfolio) and my latter hobby activities inside my [Star](https://github.com/SebasQvdo?tab=stars) page!
 
 - 👨‍💻 Several of my hobby-related ventures exist in my other profile [sebast187](https://github.com/sebast187)
 
